@@ -1,6 +1,10 @@
 # ShoppingList
+![ShoppingList - Brave 5_30_2022 2_49_00 PM](https://user-images.githubusercontent.com/89590493/171046866-fc25e89d-9a9f-4478-8e9f-db7efe117287.png)
+
+![ShoppingList - Brave 5_30_2022 3_48_20 PM](https://user-images.githubusercontent.com/89590493/171046917-14a63e64-ac5d-479a-b21b-456d77c6f8af.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+
 
 ## Development server
 
